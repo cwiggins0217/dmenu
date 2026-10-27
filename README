@@ -1,6 +1,17 @@
 dmenu - dynamic menu
 ====================
+Christopher Wiggins' fork and build of dmenu.
 dmenu is an efficient dynamic menu for X.
+
+Patches
+-------
+bar-height
+bidi
+border
+center
+fuzzymatch
+fuzzyhighlight
+password
 
 
 Requirements
